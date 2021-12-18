@@ -1,0 +1,19 @@
+{
+  "name": {
+    "type": "StrictStr"
+  },
+  "addresses": {
+    "type": "List[Dict]"
+  },
+  "custom_attributes": {
+    "type": "json",
+    "data": {
+      "attr1": {
+        "type": "StrictStr"
+      },
+      "attr2": {
+        "type": "Optional[StrictStr]"
+      }
+    }
+  }
+}

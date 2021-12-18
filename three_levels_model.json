@@ -1,0 +1,24 @@
+{
+  "name": {
+    "type": "StrictStr"
+  },
+  "addresses": {
+    "type": "List[Dict]"
+  },
+  "custom_attributes": {
+    "type": "json",
+    "data": {
+      "attr1": {
+        "type": "StrictStr"
+      },
+      "attrs_add": {
+        "type": "json",
+        "data": {
+          "column": {
+            "type": "StrictStr"
+          }
+        }
+      }
+    }
+  }
+}

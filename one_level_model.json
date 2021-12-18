@@ -1,0 +1,8 @@
+{
+  "name": {
+    "type": "StrictStr"
+  },
+  "addresses": {
+    "type": "List[Dict]"
+  }
+}
